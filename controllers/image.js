@@ -1,5 +1,5 @@
 import Clarifai from "clarifai";
-import { apiKey } from "../config.js";
+import apiKey from "../config.js";
 
 const app = new Clarifai.App({
   apiKey: apiKey,

@@ -10,7 +10,6 @@
     "pg": "^8.6.0"
   },
   "scripts": {
-    "start": "nodemon server.js",
-    "server": "nodemon ./smart-brain-api/server.js"
+    "start": "nodemon server.js"
   }
 }
